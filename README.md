@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout VGA Beach Animation 🏖️
+# IEEE Tiny Tapeout VGA Beach Animation 🏖️
 
 Welcome to the VGA Beach Animation project for Tiny Tapeout! 
 
