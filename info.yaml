@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "VGA Animated Beach"      # Project title
+  title:        "IEEE VGA Animated Beach"      # Project title
   author:       "Jose Miguel Caicedo Ortiz"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This project implements a dynamic 640x480 VGA beach scene animation for the Tiny Tapeout platform using pure combinational logic. The hardware generates a rhythmic moving tide, a sun with twinkling rays, a flying airplane, a palm tree, and a beach ball with a projected shadow. It utilizes a 6-bit RGB palette and internal frame counters to render and animate complex geometric shapes without requiring external RAM."      # One line description of what your project does
